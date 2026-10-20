@@ -143,8 +143,3 @@
 ## Авторство
 
 - **Студент:** Кунгуров Михаил Сергеевич
-
-## Источники данных
-
-1. UCI Machine Learning Repository. [Condition monitoring of hydraulic systems](https://archive.ics.uci.edu/dataset/447/condition+monitoring+of+hydraulic+systems).
-2. UCI Machine Learning Repository. [MetroPT-3 Dataset](https://archive.ics.uci.edu/dataset/791/metropt+3+dataset).
